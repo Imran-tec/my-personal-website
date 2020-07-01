@@ -1,0 +1,164 @@
+body{
+ font-family: 'Poppins', sans-serif;
+ margin: 0;
+ padding: 0;
+
+}
+.header-area{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.header-half{
+    width:35%;
+    float:left;
+    margin-left: 13%;
+    margin-top: 100px;
+}
+#margin-top{
+    
+    margin-top: 300px;
+}
+.header-half #hello{
+    font-size: 40px;
+    margin: 0;
+    font-weight: normal;
+    margin: 0;
+}
+.header-half #name{
+    font-size: 47px;
+    color: deeppink;
+    font-weight: 700;
+    margin-top: 15px;
+  
+}
+.button{
+    background-color:deeppink;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: floralwhite;
+    
+   
+}
+.header-para{
+    margin-bottom: 40px;
+}
+
+.header-half img{
+    width: 90%;
+
+}
+section{
+    height:700px ;
+    padding: 0;
+}
+.middle-area{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 100px;
+    background-position: center;
+}
+.middle-half{
+    width: 38%;
+  margin-left: 10%;
+    float: left;
+    margin-top: 100px;
+
+}
+#middle-right{
+    margin-top: 300px;
+
+}
+.header-bio{
+    font-size: 50px;
+    margin: 0;
+    font-weight: normal;
+}
+.middle-para{
+    margin: 40px 0px;
+}
+.middle-half img{
+    width: 80%;
+}
+.work-area{
+    background-image: url("images/latest-work-bg.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.work-area .header-work{
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 100px;
+}
+.work-img{
+  width: 100%;
+  text-align: center;
+}
+.work-img img{
+width: 24%;
+margin: 0 2%;
+
+}
+.footer-area{
+    background-image: url("images/footer-bg.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.footer-area h1{
+    text-align: center;
+}
+.footer-area h4{
+    text-align: center;
+    margin:50px 0px 0px 0px;
+}
+.footer-area h6{
+    text-align: center;
+    margin:10px 0px 40px 0px;
+} 
+.footer-area .client-comment{
+    text-align: center;
+    display: block;
+   width: 27%;
+   margin:40px auto;
+} 
+.email-area{
+    height: 150px;
+    width: 34%;
+    background-color:deeppink ;
+    border-radius: 10px;
+    margin: 50px auto;
+    overflow: hidden;
+    position: relative;
+}
+.email-area a{
+    text-align: center;
+    display: block;
+    position: absolute;
+    top: 65px;
+    left: 0;
+    right: 0;
+    bottom: 0px;
+    margin: auto;
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 25px;
+}
+.email-area .message{
+    width:30% ;
+    font-size: 12px;
+    margin: 30px auto;
+  color: aliceblue;
+  text-align: center;
+  display: block;
+}
+.copyright{
+    text-align: center;
+    display: block;
+    margin: auto;
+    margin-top: 150px;
+}
